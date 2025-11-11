@@ -1,0 +1,9 @@
+matplotlib>=3.5.0
+seaborn>=0.12.0
+pddlpy>=0.4.0
+networkx>=2.8.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+numpy>=1.23.0
+pandas>=1.5.0
+tqdm>=4.64.0
